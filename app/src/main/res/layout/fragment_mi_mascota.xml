@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".fragmento.MiMascota">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/margenIzquierdo"
+        android:layout_marginRight="@dimen/margenIzquierdo"
+        android:layout_marginTop="@dimen/margenIzquierdo"
+        android:background="@color/primary_light">
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/civFotoPerfil"
+            android:layout_width="@dimen/tamanoFotoCircular"
+            android:layout_height="@dimen/tamanoFotoCircular"
+            android:src="@drawable/cat_food"
+            app:civ_border_color="@color/primary_dark"
+            app:civ_border_width="4dp"
+            app:civ_shadow="true"
+            app:civ_shadow_radius="10"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/tvMiMascota"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hallo"
+            android:textSize="@dimen/letraTitulo"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+    <!--Recycler view-->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvMiMascota"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/margenIzquierdo"
+        android:layout_marginTop="@dimen/margenIzquierdo"
+        android:layout_marginRight="@dimen/margenIzquierdo"
+        >
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>

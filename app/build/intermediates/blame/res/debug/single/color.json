@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/acf9813c8cb177449d66418dd5911214c9a95b9f/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/acf9813c8cb177449d66418dd5911214c9a95b9f/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/acf9813c8cb177449d66418dd5911214c9a95b9f/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/acf9813c8cb177449d66418dd5911214c9a95b9f/output/res/color/design_tint_password_toggle.xml"
+    }
+]

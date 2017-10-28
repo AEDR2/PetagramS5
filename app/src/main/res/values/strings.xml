@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Petagram3</string>
+    <string name="app_name2">Petagram</string>
+    <string name="cinco">5</string>
+    <string name="contacto">Contacto</string>
+    <string name="about">Acerca de...</string>
+    <string name="favoritas">Mascotas favoritas</string>
+    <string name="nombreContacto">Nombre</string>
+    <string name="correoContacto">Correo</string>
+    <string name="mensajeContacto">Mensaje</string>
+    <string name="enviarBoton">Enviar mensaje</string>
+    <string name="desarrollado">Desarrollado por: </string>
+    <string name="aedr2">AEDR2</string>
+    <string name="para">Para: </string>
+    <string name="nombreCurso">Desarollo de aplicaciones con Android</string>
+    <string name="email">ale_cya@hotmail.com</string>
+    <string name="twitter">\@AEDR3335</string>
+    <string name="twitterEti">Twitter</string>
+    <string name="carrera">Licenciada Informática</string>
+    <string name="etiqueta">País: </string>
+    <string name="nombrePais">México</string>
+    <string name="edad">25 años</string>
+</resources>

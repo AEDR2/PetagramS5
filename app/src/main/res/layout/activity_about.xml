@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mx.aedr2.petagram3.About"
+    android:orientation="vertical"
+    android:background="@color/primary_light"
+    android:weightSum="1"
+    >
+
+    <TextView
+        android:id="@+id/tvAcerca"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:paddingBottom="@dimen/paddingContacto"
+        android:paddingTop="@dimen/paddingContacto"
+        android:text="@string/about"
+        android:textSize="@dimen/letraTitulo"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="255dp"
+        android:orientation="horizontal"
+        android:paddingRight="@dimen/margenIzquierdo"
+        android:layout_marginLeft="@dimen/margenIzquierdo">
+
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/civFotoPerfil"
+            android:layout_width="@dimen/tamanoFotoCircular2"
+            android:layout_height="@dimen/tamanoFotoCircular2"
+            android:src="@drawable/img_20170202_wa0003"
+            app:civ_border_color="@color/primary_dark"
+            app:civ_border_width="4dp"
+            app:civ_shadow="true"
+            app:civ_shadow_radius="10"
+            android:layout_gravity="center"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:foregroundGravity="center_vertical"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:layout_marginLeft="@dimen/margenIzquierdo"
+            android:weightSum="1">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="@dimen/paddingContacto"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/etiquetaDesarrollado"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/desarrollado"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvDesarrollador"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/aedr2" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/etiquetaPara"
+                    android:layout_width="51dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:text="@string/para"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvCurso"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/nombreCurso" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/etiquetaOficio"
+                    android:layout_width="176dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:text="@string/carrera"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="@dimen/paddingContacto"
+                android:layout_weight="0.28"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <TextView
+                    android:id="@+id/etiquetaPais"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/nombrePais"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/edad"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Oficio: estudiante de maestría"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/etiquetaContacto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margenIzquierdo"
+        android:text="@string/contacto"
+        android:textSize="@dimen/letraTitulo"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="61dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"></LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/etiquetaCorreo"
+                    android:layout_width="55dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/correoContacto"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/email" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/etiquetaTwitter"
+                    android:layout_width="55dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/twitterEti"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvTwitter"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/twitter" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

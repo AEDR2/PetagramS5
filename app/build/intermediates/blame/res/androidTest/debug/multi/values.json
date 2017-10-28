@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/alejandraperez/.android/build-cache/c3460de8be24d1814660a8ff44ee442c8ce4f76c/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/alejandraperez/.android/build-cache/c3460de8be24d1814660a8ff44ee442c8ce4f76c/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alejandraperez/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-mail/1.6.0/5cd030c77b594dac83e475923a293cd49a787594/android-mail-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5cd030c77b594dac83e475923a293cd49a787594">
+        <dex dex="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/pre-dexed/debug/android-mail-1.6.0_8af393932ed7234aefde9be8f2b8924425125220.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandraperez/.android/build-cache/3ad37624153380428db89c8ada79501a14bab4bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29b0165e73afebc6c26463c48ab796fd1c1bca1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alejandraperez/.android/build-cache/3ad37624153380428db89c8ada79501a14bab4bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/pre-dexed/debug/classes_29b0165e73afebc6c26463c48ab796fd1c1bca1b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7f9a63cadf56c350d241651b4ada3e26bcfa4c10">
+        <dex dex="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2936e89c7ba24cf2b78f29550ed3e2ef8ae03c13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandraperez/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-mail/1.6.0/5cd030c77b594dac83e475923a293cd49a787594/android-mail-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5cd030c77b594dac83e475923a293cd49a787594">
+        <dex dex="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-mail-1.6.0_8af393932ed7234aefde9be8f2b8924425125220/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alejandraperez/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-activation/1.6.0/1e6fde8f3e07a8bca56ec2afd6226bd3e28dd11c/android-activation-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e6fde8f3e07a8bca56ec2afd6226bd3e28dd11c">
+        <dex dex="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/pre-dexed/debug/android-activation-1.6.0_7945110044edb0e47740ecaee6a7501195b5fab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alejandraperez/.android/build-cache/acf9813c8cb177449d66418dd5911214c9a95b9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/pre-dexed/debug/classes_8f146193c2324cf3ed5a89bd562edc80243822e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa13be03cf0bcf45941a1e451305ef9cdc3353b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandraperez/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-activation/1.6.0/1e6fde8f3e07a8bca56ec2afd6226bd3e28dd11c/android-activation-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e6fde8f3e07a8bca56ec2afd6226bd3e28dd11c">
+        <dex dex="/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-activation-1.6.0_7945110044edb0e47740ecaee6a7501195b5fab8/classes.dex" />
+    </item>
+
+</items>

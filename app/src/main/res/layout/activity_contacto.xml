@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mx.aedr2.petagram3.pojo.Contacto"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:id="@+id/tituloActContacto"
+        android:text="@string/contacto"
+        android:paddingTop="@dimen/paddingContacto"
+        android:paddingBottom="@dimen/paddingContacto"
+        android:textSize="@dimen/letraTitulo"
+        android:layout_gravity="center"
+        />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/cNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/top">
+        <EditText
+            android:id="@+id/etNombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nombreContacto"
+            android:inputType="text"
+            android:maxLines="1"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/cCorreo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/top">
+        <EditText
+            android:id="@+id/etCorreo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/correoContacto"
+            android:inputType="text"
+            android:maxLines="1"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/cMensaje"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/top">
+        <EditText
+            android:id="@+id/etMensaje"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/mensajeContacto"
+            android:inputType="text"/>
+    </android.support.design.widget.TextInputLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="231dp"
+            android:orientation="horizontal"></LinearLayout>
+
+        <Button
+            android:id="@+id/bEnvio"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/primary_dark"
+            android:text="@string/enviarBoton"
+            android:textColor="@color/icons" />
+    </LinearLayout>
+</LinearLayout>

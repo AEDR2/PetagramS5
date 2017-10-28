@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragmento.Mascotas">
+
+    <!--Recycler view-->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvMascotas"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="@dimen/margenIzquierdo"
+        android:layout_marginTop="@dimen/margenIzquierdo"
+        >
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>
