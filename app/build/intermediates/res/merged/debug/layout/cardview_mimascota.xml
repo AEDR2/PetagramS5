@@ -39,11 +39,11 @@
                 android:text="5"
                 android:layout_weight="0.91" />
 
-            <ImageView
+            <ImageButton
                 android:id="@+id/ivMiHueso"
                 android:layout_width="@dimen/tamanoHueso"
                 android:layout_height="@dimen/tamanoHueso"
-                android:src="@mipmap/huesoamarillo" />
+                android:background="@mipmap/huesoamarillo" />
         </LinearLayout>
     </LinearLayout>
 </android.support.v7.widget.CardView>

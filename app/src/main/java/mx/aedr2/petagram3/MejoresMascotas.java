@@ -9,6 +9,7 @@ import android.support.v7.widget.Toolbar;
 import java.util.ArrayList;
 
 import mx.aedr2.petagram3.adaptador.MascotaAdaptador;
+import mx.aedr2.petagram3.db.ConstructorMejoresMascotas;
 import mx.aedr2.petagram3.pojo.Mascota;
 
 /**
@@ -18,26 +19,19 @@ import mx.aedr2.petagram3.pojo.Mascota;
 public class MejoresMascotas extends AppCompatActivity {
     ArrayList<Mascota> mejoresMascotas;
     private RecyclerView rvMejoresMascotas;
-    private Toolbar miActionBar;
+    private Toolbar toolbar;;
+    private ConstructorMejoresMascotas constructorMejoresMascotas;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
-
         setContentView(R.layout.mejores_mascotas);
 
-        //Se genera la barra de titulo de la aplicacon
-        miActionBar = (Toolbar) findViewById(R.id.miActionBar);
-        setSupportActionBar(miActionBar);
-
-
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         obtenerGatos();
-
-
-
 
         rvMejoresMascotas = (RecyclerView) findViewById(R.id.rvMejoresMascotas);
 
@@ -45,19 +39,13 @@ public class MejoresMascotas extends AppCompatActivity {
         llm.setOrientation(LinearLayoutManager.VERTICAL);
         rvMejoresMascotas.setLayoutManager(llm);
         inicializarAdaptador();
-
     }
 
     //Metodo que obtiene los elementos del arrayList de mascotas
     public void obtenerGatos(){
         mejoresMascotas = new ArrayList<>();
-        Bundle parametros = getIntent().getExtras();
-        for(int i = 0; i < 5; i ++) {
-            int imagen = parametros.getInt("imagen" + i);
-            String nombre = parametros.getString("nombre" + i);
-            int ranking = parametros.getInt("ranking" + i);
-            mejoresMascotas.add(new Mascota(imagen, nombre, ranking));
-        }
+        constructorMejoresMascotas = new ConstructorMejoresMascotas(this);
+        mejoresMascotas = constructorMejoresMascotas.obtenerDatos();
     }
 
     public void inicializarAdaptador(){

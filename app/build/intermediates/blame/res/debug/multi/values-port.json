@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
         "map": [
             {

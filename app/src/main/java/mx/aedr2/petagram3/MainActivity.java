@@ -8,11 +8,16 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
+
 import java.util.ArrayList;
+import java.util.Collections;
+
 import mx.aedr2.petagram3.adaptador.PageAdapter;
-import mx.aedr2.petagram3.fragmento.Mascotas;
-import mx.aedr2.petagram3.fragmento.MiMascota;
+import mx.aedr2.petagram3.fragmento.RecyclerViewFragmentMascotas;
+import mx.aedr2.petagram3.fragmento.RecyclerViewFragmentMiMascota;
 import mx.aedr2.petagram3.pojo.Contacto;
+import mx.aedr2.petagram3.pojo.Mascota;
 
 public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
@@ -43,8 +48,8 @@ public class MainActivity extends AppCompatActivity {
 
     private ArrayList<Fragment> agregarFragments(){
         ArrayList<Fragment> fragments = new ArrayList<>();
-        fragments.add(new Mascotas());
-        fragments.add(new MiMascota());
+        fragments.add(new RecyclerViewFragmentMascotas());
+        fragments.add(new RecyclerViewFragmentMiMascota());
         return fragments;
     }
 
@@ -69,9 +74,15 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 break;
             case R.id.mFavoritas:
-                //irRankinGatos();
+                irRankingGatos();
                 break;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    //metodo para ir al ranking de mascotas
+    public void irRankingGatos(){
+        Intent i = new Intent(this, MejoresMascotas.class);
+        startActivity(i);
     }
 }

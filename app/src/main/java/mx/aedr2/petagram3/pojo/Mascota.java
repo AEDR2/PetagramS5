@@ -5,18 +5,20 @@ package mx.aedr2.petagram3.pojo;
  */
 
 public class Mascota implements Comparable<Mascota> {
+    private int id;
     private int imagen;
     private String nombre;
     private int ranking = 10;
     private boolean bOrdenarNombre;
 
-    public Mascota(int imagen, String nombre, int ranking) {
+    public Mascota(int imagen, String nombre, int ranking){
         this.imagen = imagen;
         this.nombre = nombre;
-        //this.ranking = ranking;
+        this.ranking = ranking;
         bOrdenarNombre = true;
     }
 
+    public Mascota() {}
     public int getImagen() {
         return imagen;
     }
@@ -52,5 +54,11 @@ public class Mascota implements Comparable<Mascota> {
             else if(this.getRanking() == o.getRanking()) return 0;
             else return -1;
         }
+    }
+    public int getId() {
+        return id;
+    }
+    public void setId(int id) {
+        this.id = id;
     }
 }

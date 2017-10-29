@@ -8,9 +8,12 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
+import mx.aedr2.petagram3.db.ConstructorMascotas;
+import mx.aedr2.petagram3.db.ConstructorMejoresMascotas;
 import mx.aedr2.petagram3.pojo.Mascota;
 import mx.aedr2.petagram3.R;
 
@@ -19,7 +22,6 @@ import mx.aedr2.petagram3.R;
  */
 
 public class MascotaAdaptador extends RecyclerView.Adapter<MascotaAdaptador.MascotaViewHolder>{
-
     ArrayList<Mascota> mascotas;
     Activity actividad;
 
@@ -31,25 +33,24 @@ public class MascotaAdaptador extends RecyclerView.Adapter<MascotaAdaptador.Masc
     @Override
     public MascotaViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.cardview_mascota,parent, false);
-
         return new MascotaViewHolder(v);
     }
 
     @Override
     public void onBindViewHolder(final MascotaViewHolder holder, int position) {
         final Mascota mascota = mascotas.get(position);
-
         holder.imgFoto.setImageResource(mascota.getImagen());
         holder.tvNombre.setText(mascota.getNombre());
         holder.tvRanking.setText(String.valueOf(mascota.getRanking()));
         holder.btnHueso.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mascota.setRanking(mascota.getRanking() + 1);
-                holder.tvRanking.setText(String.valueOf(mascota.getRanking()));
+                Toast.makeText(actividad, "Diste like a " + mascota.getNombre(), Toast.LENGTH_SHORT).show();
+                ConstructorMascotas constructorMascotas = new ConstructorMascotas(actividad);
+                constructorMascotas.darLikeMascota(mascota.getId());
+                holder.tvRanking.setText(String.valueOf(constructorMascotas.obtenerLikesMascotas(mascota.getId())));
             }
         });
-
     }
 
     @Override
@@ -74,4 +75,3 @@ public class MascotaAdaptador extends RecyclerView.Adapter<MascotaAdaptador.Masc
     }
 
 }
-

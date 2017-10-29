@@ -1,27 +1,15 @@
 [
     {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoamarillo.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/huesoamarillo.png"
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoblanco.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/huesoblanco.png"
     },
     {
         "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/estrella.png",
         "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/estrella.png"
     },
     {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoazul.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/huesoazul.png"
-    },
-    {
         "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoblanco.png",
         "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/huesoblanco.png"
-    },
-    {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoblanco.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/huesoblanco.png"
     },
     {
         "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
@@ -36,43 +24,95 @@
         "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/camara.png"
     },
     {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/estrella.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/estrella.png"
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/camara.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/camara.png"
     },
     {
         "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoamarillo.png",
         "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/huesoamarillo.png"
     },
     {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoturquesa.png",
         "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/huesoturquesa.png"
-    },
-    {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/star.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/star.png"
-    },
-    {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/camara.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/camara.png"
     },
     {
         "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/paw.png",
         "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/paw.png"
     },
     {
-        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/paw.png",
-        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/paw.png"
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoturquesa.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/huesoturquesa.png"
     },
     {
         "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoazul.png",
         "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/huesoazul.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoamarillo.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/huesoamarillo.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoazul.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/huesoazul.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoblanco.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/huesoblanco.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/paw.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/paw.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/estrella.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/estrella.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoazul.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/huesoazul.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/estrella.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/estrella.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/star.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/star.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/mipmap-hdpi/camara.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/src/main/res/mipmap-hdpi/camara.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/huesoamarillo.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/huesoamarillo.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/mipmap-hdpi/paw.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/src/main/res/mipmap-hdpi/paw.png"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/mipmap-hdpi/star.png",
+        "source": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/src/main/res/mipmap-hdpi/star.png"
     }
 ]

@@ -4,6 +4,14 @@
         "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS4/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
         "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/drawable-v21/notification_action_background.xml"
     },
@@ -12,7 +20,15 @@
         "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/Petagram3/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/alejandraperez/Documents/Estudios/Programacion/Coursera/Android/3.AppAndroid/codigo/androidCurso3/PetagramS5/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Users/alejandraperez/.android/build-cache/f44e556eae7fb64f05cb703245bd0e2c1ef99c7b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
