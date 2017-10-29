@@ -1,12 +1,11 @@
 # Petagram
 
-Tarea de la semana 4 del curs de desarrollo de aplicaciones con Android
+Tarea de la semana 5 del curs de desarrollo de aplicaciones con Android
 
 
 ### Prerequisites
 
 Desarrollado con el API 19
-En la clase ManejoCorreo cambiar las variables correoPersonal y contrasenaPersonal por lo datos de una cuenta de gmail.
 
 ## Built With
 
@@ -29,3 +28,8 @@ En la clase ManejoCorreo cambiar las variables correoPersonal y contrasenaPerson
 
 * Curso de Android
 
+##Notes
+Al desarrollar esta aplicación se implementaron las siguientes características:
+* Generación de persistencia con SQLite (creación de dos tablas: mascotas y mimascota)
+* Posibilidad de dar like a las fotos de una mascota en particular y a las mascotas que estan a la base de datos. Los likes de las mascotas no tienen relación con los de las fotos de las mascotas
+* Consulta de las cinco mascotas con más likes
